@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// 가위바위보 만들기
-		
+		System.out.println("git에 올릴거지롱~");
 		Scanner sc = new Scanner(System.in);
 		// 가위바위보
 		// 숫자 1: 가위, 2: 바위, 3: 보
